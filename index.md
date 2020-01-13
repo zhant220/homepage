@@ -12,9 +12,8 @@
     </figure>
     <p class="description">   
      School of Mathematics and Information Science <br>
-     Guangzhou University
-	    
-      A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
+     Guangzhou University<br>
+     A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
    <h2> Research Interests</h2>
     <p>
