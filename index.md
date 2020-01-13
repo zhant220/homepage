@@ -13,21 +13,22 @@
     <p class="description">   
      School of Mathematics and Information Science <br>
      Guangzhou University
+	    
+      A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
    <h2> Research Interests</h2>
     <p>
      <h4> Extremal graph theory, discrete geometry, coding theory and design</h4><br>
-      A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
 	
 <h2>Professional Experiences</h2>
     <p>
-    Guangzhou University, 2017.7-present <br>
+    Guangzhou University, 2017.7--present <br>
 	    Associate Professor
     </p>
     <h2>Education</h2>
 	 <p>
-    Zhejiang University， 2012.9-2017.6 <br>
+    Zhejiang University， 2012.9--2017.6 <br>
 	   Ph.D. in Mathematics (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Prof. Gennian Ge</a>)
     </p>
     <p>
