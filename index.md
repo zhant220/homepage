@@ -68,7 +68,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2020+   Some New Results on Splitter Sets (Online).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, 2020+ <span><a href="2020+   Some New Results on Splitter Sets (Online).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -88,7 +88,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Journal of Combinatorial Designs <span><a href="2020-01 New lower bounds for partial k-parallelisms（JCD）.pdf" target="_blank">PDF</a></span>  
+    Published in:  Journal of Combinatorial Designs, Jan. 2020. <span><a href="2020-01 New lower bounds for partial k-parallelisms（JCD）.pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -109,7 +109,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Journal of combinatorial theory, series A <span><a href="2019-07 On the nonexistence of lattice tilings of Z^n by Lee spheres (JCTA).pdf" target="_blank">PDF</a></span>  
+    Published in:  Journal of combinatorial theory, series A, Jul. 2019. <span><a href="2019-07 On the nonexistence of lattice tilings of Z^n by Lee spheres (JCTA).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -127,7 +127,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Journal of Algebraic Combinatorics <span><a href="2019-03 Improved lower bounds on the degree-diameter problem (JACO).pdf" target="_blank">PDF</a></span>  
+    Published in:  Journal of Algebraic Combinatorics, Mar. 2019. <span><a href="2019-03 Improved lower bounds on the degree-diameter problem (JACO).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -146,7 +146,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography <span><a href="2019-01 Constructions of optimal Ferrers diagram rank metric codes (DCC).pdf" target="_blank">PDF</a></span>  
+    Published in:  Designs, Codes and Cryptography, 2019. <span><a href="2019-01 Constructions of optimal Ferrers diagram rank metric codes (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -164,7 +164,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Journal of Algebraic Combinatorics <span><a href="2018-12 On (mn,n,mn,m) relative difference sets with gcd(m,n)=1 (JACO).pdf" target="_blank">PDF</a></span>  
+    Published in:  Journal of Algebraic Combinatorics, Dec. 2018. <span><a href="2018-12 On (mn,n,mn,m) relative difference sets with gcd(m,n)=1 (JACO).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -185,7 +185,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2018-10 On the Nonexistence of Perfect Splitter Sets (IT).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, Oct. 2018. <span><a href="2018-10 On the Nonexistence of Perfect Splitter Sets (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -206,7 +206,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography <span><a href="2018-04 New Constructions of MDS Symbol-Pair Codes (DCC).pdf" target="_blank">PDF</a></span>  
+    Published in:  Designs, Codes and Cryptography, 2018. <span><a href="2018-04 New Constructions of MDS Symbol-Pair Codes (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -224,7 +224,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography <span><a href="2018-04 Combinatorial constructions of packings in Grassmannian spaces (DCC).pdf" target="_blank">PDF</a></span>  
+    Published in:  Designs, Codes and Cryptography, 2018. <span><a href="2018-04 Combinatorial constructions of packings in Grassmannian spaces (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -244,7 +244,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Finite Fields and Their Applications <span><a href="2018-01 Maximum Distance Separable Codes for b-Symbol Read Channels (FFA).pdf" target="_blank">PDF</a></span>  
+    Published in:  Finite Fields and Their Applications, Jan. 2018. <span><a href="2018-01 Maximum Distance Separable Codes for b-Symbol Read Channels (FFA).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -265,7 +265,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2017-12 Splitter Sets and k -Radius Sequences (IT).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, Dec. 2017. <span><a href="2017-12 Splitter Sets and k -Radius Sequences (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -290,7 +290,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2017-07 Perfect and Quasi-Perfect Codes Under the lp Metric (IT).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, Jul. 2017. <span><a href="2017-07 Perfect and Quasi-Perfect Codes Under the lp Metric (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -308,7 +308,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography <span><a href="2017-06 Quantum MDS codes with large minimum distance (DCC).pdf" target="_blank">PDF</a></span>  
+    Published in:  Designs, Codes and Cryptography, 2017. <span><a href="2017-06 Quantum MDS codes with large minimum distance (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -329,7 +329,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography <span><a href="2017-05 Some new results on permutation polynomials over finite fields (DCC).pdf" target="_blank">PDF</a></span>  
+    Published in:  Designs, Codes and Cryptography, 2017. <span><a href="2017-05 Some new results on permutation polynomials over finite fields (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -350,7 +350,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Discrete Mathematics <span><a href="2017-02 Invertible binary matrix with maximum number of 2-by-2 invertible submatrices (DM).pdf" target="_blank">PDF</a></span>  
+    Published in:  Discrete Mathematics, Feb. 2017. <span><a href="2017-02 Invertible binary matrix with maximum number of 2-by-2 invertible submatrices (DM).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -370,7 +370,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2016-11 Quantum Codes Derived From Certain Classes of Polynomials (IT).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, Nov. 2016. <span><a href="2016-11 Quantum Codes Derived From Certain Classes of Polynomials (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -391,7 +391,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2016-08 New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory (IT).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, Aug. 2016. <span><a href="2016-08 New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -411,7 +411,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Electronic Journal of Combinatorics <span><a href="2015-11 On the existence of certain optimal self-dual codes with lengths between 74 and 116 (EJC).pdf" target="_blank">PDF</a></span>  
+    Published in:  Electronic Journal of Combinatorics, Nov. 2015. <span><a href="2015-11 On the existence of certain optimal self-dual codes with lengths between 74 and 116 (EJC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -430,7 +430,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2015-09 Some New Classes of Quantum MDS Codes From Constacyclic Codes (IT).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, Sep. 2015. <span><a href="2015-09 Some New Classes of Quantum MDS Codes From Constacyclic Codes (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -451,7 +451,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography <span><a href="2015-08 New pseudo-planar binomials in characteristic two and related schemes (DCC).pdf" target="_blank">PDF</a></span>  
+    Published in:  Designs, Codes and Cryptography, 2015. <span><a href="2015-08 New pseudo-planar binomials in characteristic two and related schemes (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -469,7 +469,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2015-08 Fourth Power Residue Double Circulant Self-Dual Codes (IT).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, Aug. 2015. <span><a href="2015-08 Fourth Power Residue Double Circulant Self-Dual Codes (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
