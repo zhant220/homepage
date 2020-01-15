@@ -492,7 +492,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-  Published in:  IEEE Transcations on Information theory   <span><a href="2014-05 some new results on the cross correlation of m sequences (IT).pdf" target="_blank">PDF</a></span>  
+  Published in:  IEEE Transcations on Information theory, May 2014.   <span><a href="2014-05 some new results on the cross correlation of m sequences (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
