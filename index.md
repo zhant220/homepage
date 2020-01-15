@@ -260,7 +260,7 @@
  <h4>12. Splitter Sets and k -Radius Sequences</h4> 
     <span>
       (with  
-	<a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>    
+	<a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>,    
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
