@@ -223,11 +223,30 @@
 </article>
 
 
+<div class="items">      
+        <article class="item">   
+<h4>5. On the existence of certain optimal self-dual codes with lengths between 74 and 116</h4>  
+    <span>
+      (with  
+	Jerod Michel,
+	<a href="https://person.zju.edu.cn/tfeng" target="_blank">Tao Feng</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Electronic Journal of Combinatorics <span><a href="2015-11 On the existence of certain optimal self-dual codes with lengths between 74 and 116 (EJC).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
 
 
 <div class="items">      
         <article class="item">   
-<h4>Some New Classes of Quantum MDS Codes From Constacyclic Codes</h4>  
+<h4>4. Some New Classes of Quantum MDS Codes From Constacyclic Codes</h4>  
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
