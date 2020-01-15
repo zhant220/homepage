@@ -543,6 +543,36 @@
   <h4>1. On the existence of certain optimal self-dual codes with lengths between 74 and 116</h4>
  <p>Workshop on Combinatorial Designs and Their Applications, Soochow University, China, Aug., 2014. (Contributed talk) </p>
  
+ <h2>Grants</h2>
+    <p>
+   <h4>2019.1--2021.12, National Natural Science Foundation of China, Grant 11801109</h4>
+    </p>
+ 
+  <h2>Journal Referee</h2>
+    <p>
+   IEEE Transactions on Information Theory
+    </p>
+  <p>
+   Designs, Codes and Cryptography
+    </p>
+     <p>
+   Finite Fields and Their Applications
+    </p>
+     <p>
+   Electronic Journal of Combinatorics
+    </p>
+    
+   <h2>Teaching Experience</h2>
+    <p>
+   2019.3--2019.6, Linear Algebra
+    </p>
+  <p>
+   2018.9--2018.12, Linear Algebra
+    </p>
+     <p>
+   2018.3--2018.6, Linear Algebra
+    </p>
+    
 <h2>Contact Information</h2>
     <p>
       <strong>Email:</strong> zhant220@163.com<br>
