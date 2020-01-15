@@ -179,14 +179,31 @@
 
 
 
-
+<div class="items">      
+        <article class="item">   
+ <h4>8. Invertible binary matrix with maximum number of 2-by-2 invertible submatrices </h4> 
+    <span>
+      (with
+	Yiwei Zhang,
+	Xin Wang,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Discrete Mathematics <span><a href="2017-02 Invertible binary matrix with maximum number of 2-by-2 invertible submatrices (DM).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
 
 
 
 <div class="items">      
         <article class="item">   
- <h4>Quantum Codes Derived From Certain Classes of Polynomials </h4> 
+ <h4>7. Quantum Codes Derived From Certain Classes of Polynomials </h4> 
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -207,7 +224,7 @@
 
 <div class="items">      
         <article class="item">   
-<h4>New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory </h4>  
+<h4>6. New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory </h4>  
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
