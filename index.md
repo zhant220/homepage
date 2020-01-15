@@ -59,7 +59,7 @@
 
 <div class="items">      
         <article class="item">   
-<h4>Some New Results on Splitter Sets</h4>
+<h4>22. Some New Results on Splitter Sets</h4>
     <span>
       (with  
 	    Zuo ye,
@@ -79,7 +79,22 @@
 
 
 
-
+<div class="items">      
+        <article class="item">   
+ <h4>21. New lower bounds for partial k-parallelisms</h4> 
+    <span>
+      (with  					 
+       Yue Zhou,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Journal of Combinatorial Designs <span><a href="2020-01 New lower bounds for partial k-parallelisms（JCD）.pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
 
 
@@ -87,7 +102,7 @@
 
 <div class="items">      
         <article class="item">   
- <h4>On the nonexistence of lattice tilings of Z^n by Lee spheres</h4> 
+ <h4>20. On the nonexistence of lattice tilings of Z^n by Lee spheres</h4> 
     <span>
       (with  					 
        Yue Zhou,    
@@ -103,8 +118,59 @@
 </article>
 
 
+<div class="items">      
+        <article class="item">   
+ <h4>19. Improved lower bounds on the degree-diameter problem</h4> 
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Journal of Algebraic Combinatorics <span><a href="2019-03 Improved lower bounds on the degree-diameter problem (JACO).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
 
+
+<div class="items">      
+        <article class="item">   
+ <h4>18. Constructions of optimal Ferrers diagram rank metric codes</h4> 
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Designs, Codes and Cryptography <span><a href="2019-01 Constructions of optimal Ferrers diagram rank metric codes (DCC).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+<div class="items">      
+        <article class="item">   
+ <h4>17. On (mn,n,mn,m) relative difference sets with gcd(m,n)=1</h4> 
+    <span>
+      (with  					 
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Journal of Algebraic Combinatorics <span><a href="2018-12 On (mn,n,mn,m) relative difference sets with gcd(m,n)=1 (JACO).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
 
 
@@ -112,7 +178,7 @@
 
 <div class="items">      
         <article class="item">   
- <h4>On the Nonexistence of Perfect Splitter Sets</h4> 
+ <h4>16. On the Nonexistence of Perfect Splitter Sets</h4> 
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -128,14 +194,70 @@
 </article>
 
 
+<div class="items">      
+        <article class="item">   
+ <h4>15. New Constructions of MDS Symbol-Pair Codes</h4> 
+    <span>
+      (with
+	Baokun Ding,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+	Jun Zhang,
+	Yiwei Zhang,
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Designs, Codes and Cryptography <span><a href="2018-04 New Constructions of MDS Symbol-Pair Codes (DCC).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
+
+<div class="items">      
+        <article class="item">   
+ <h4>14. Combinatorial constructions of packings in Grassmannian spaces</h4> 
+    <span>
+      (with   
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Designs, Codes and Cryptography <span><a href="2018-04 Combinatorial constructions of packings in Grassmannian spaces (DCC).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+<div class="items">      
+        <article class="item">   
+ <h4>13. Maximum Distance Separable Codes for b-Symbol Read Channels</h4> 
+    <span>
+      (with  
+	Baokun Ding,   
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Finite Fields and Their Applications <span><a href="2018-01 Maximum Distance Separable Codes for b-Symbol Read Channels (FFA).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
 
 
 
 <div class="items">      
         <article class="item">   
- <h4>Splitter Sets and k -Radius Sequences</h4> 
+ <h4>12. Splitter Sets and k -Radius Sequences</h4> 
     <span>
       (with  
 	<a href="http://staff.ustc.edu.cn/~drzhangx/" target="_blank">Xiande Zhang</a>    
@@ -161,7 +283,7 @@
 
 <div class="items">      
         <article class="item">   
-  <h4>Perfect and Quasi-Perfect Codes Under the lp Metric </h4>  
+  <h4>11. Perfect and Quasi-Perfect Codes Under the lp Metric </h4>  
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -176,6 +298,44 @@
   </p>
 </article>
 
+
+<div class="items">      
+        <article class="item">   
+ <h4>10. Quantum MDS codes with large minimum distance </h4> 
+    <span>
+      (with
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Designs, Codes and Cryptography <span><a href="2017-06 Quantum MDS codes with large minimum distance (DCC).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
+<div class="items">      
+        <article class="item">   
+ <h4>9. Some new results on permutation polynomials over finite fields </h4> 
+    <span>
+      (with
+	Jingxue Ma,
+	<a href="https://person.zju.edu.cn/tfeng" target="_blank">Tao Feng</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  Designs, Codes and Cryptography <span><a href="2017-05 Some new results on permutation polynomials over finite fields (DCC).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
 
 
 
