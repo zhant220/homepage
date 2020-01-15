@@ -243,10 +243,30 @@
 </article>
 
 
+<div class="items">      
+        <article class="item">   
+ <h4>3. New pseudo-planar binomials in characteristic two and related schemes </h4>
+    <span>
+      (with  
+	<a Sihuang Hu</a>,
+	<a href="https://www.researchgate.net/profile/Shuxing_Li4" target="_blank">Shuxing Li</a>,
+        <a href="https://person.zju.edu.cn/tfeng" target="_blank">Tao Feng</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  IEEE Transcations on Information theory <span><a href="2015-08 New pseudo-planar binomials in characteristic two and related schemes (DCC).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
 
 <div class="items">      
         <article class="item">   
- <h4>Fourth Power Residue Double Circulant Self-Dual Codes </h4>
+ <h4>2. Fourth Power Residue Double Circulant Self-Dual Codes </h4>
     <span>
       (with  					 
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
@@ -267,7 +287,7 @@
 
  <div class="items">      
         <article class="item">   
- <h4> Some new results on the cross correlation of m sequences</h4>
+ <h4>1. Some new results on the cross correlation of m sequences</h4>
     <span>
       (with  
         <a href="https://www.researchgate.net/profile/Shuxing_Li4" target="_blank">Shuxing Li</a>,
