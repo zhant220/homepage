@@ -451,7 +451,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory <span><a href="2015-08 New pseudo-planar binomials in characteristic two and related schemes (DCC).pdf" target="_blank">PDF</a></span>  
+    Published in:  Designs, Codes and Cryptography <span><a href="2015-08 New pseudo-planar binomials in characteristic two and related schemes (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
