@@ -22,7 +22,10 @@
 	
 <h2>Professional Experiences</h2>
     <p>
-    Guangzhou University, 2017.7--present <br>
+    TBD, 2022.8-- <br>
+    </p>
+    <p>
+    Guangzhou University, 2017.7--2022.7 <br>
 	    Associate Professor
     </p>
     <h2>Education</h2>
