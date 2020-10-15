@@ -37,6 +37,9 @@
     
     
    <h2>Honours and Awards</h2>
+       <p>
+   <h4>2020 Kirkman Medal</h4>
+    </p>
     <p>
    <h4>2019 The Honorable Mention of Doctor thesis for New World Mathematics Awards</h4>
     </p>
