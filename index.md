@@ -3,7 +3,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-## Tao Zhang (张韬) Associate Professor
+## Tao Zhang (张韬) 
 	
 		
   <div class="about">
