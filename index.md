@@ -60,6 +60,81 @@
 <h2>Publications</h2>
 
 
+<div class="items">      
+        <article class="item">   
+<h4>27. New constructions of Sidon spaces</h4>
+    <span>
+      (with  
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in: Journal of Algebraic Combinatorics, 2022+ <span><a href="New constructions of Sidon spaces（online）.pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+<div class="items">      
+        <article class="item">   
+<h4>26. Some extremal results on hypergraph Turan problems</h4>
+    <span>
+      (with  
+	    Zixiang Xu,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in: Science China Mathematics, 2022+ <span><a href="Some extremal results on hypergraph Turán problems (online).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+<div class="items">      
+        <article class="item">   
+<h4>25. On the codegree density of PGm(q)</h4>
+    <span>
+      (with  
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  SIAM Journal on Discrete Mathematics, 2021 <span><a href="On the Codegree Density of $PG_m(q)$ (SIDMA).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+<div class="items">      
+        <article class="item">   
+<h4>24. Color isomorphic even cycles and a related Ramsey problem</h4>
+    <span>
+      (with  
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+	    Yifan Jing,
+	    Zixiang Xu,
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  SIAM Journal on Discrete Mathematics, 2020 <span><a href="Color isomorphic even cycles and a related Ramsey problem (SIDMA).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
 
 <div class="items">      
         <article class="item">   
