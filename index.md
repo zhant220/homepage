@@ -60,6 +60,27 @@
 <h2>Publications</h2>
 
 
+
+<div class="items">      
+        <article class="item">   
+<h4>23. Some tight lower bounds for Turan problems via constructions of multi-hypergraphs</h4>
+    <span>
+      (with  
+	    Zixiang Xu,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in:  European Journal of Combinatorics, 2020 <span><a href="Some tight lower bounds for Turán problems via constructions of multi-hypergraphs (EUJC).pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+
 <div class="items">      
         <article class="item">   
 <h4>22. Some New Results on Splitter Sets</h4>
@@ -71,7 +92,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, 2020+ <span><a href="2020+   Some New Results on Splitter Sets (Online).pdf" target="_blank">PDF</a></span>  
+    Published in:  IEEE Transcations on Information theory, 2020 <span><a href="2020+   Some New Results on Splitter Sets (Online).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
