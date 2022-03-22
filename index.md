@@ -625,7 +625,7 @@
  <p>University of Science and Technology of China, China, Oct., 2019. </p>
  
 <h4>3.Lattice tiling by two different shapes.</h4>
- <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei University, China, May, 2019. <h4>(Plenary talk)</h4></p>
+ <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei University, China, May, 2019. (Plenary talk)</p>
  
 <h4>2. On the nonexistence of lattice tilings of Z^n by Lee spheres</h4>
  <p>Capital Normal University, China, Apr., 2019. </p>
