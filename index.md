@@ -17,7 +17,7 @@
     </p>
    <h2> Research Interests</h2>
     <p>
-     <h4> Extremal graph theory, discrete geometry, coding theory and design</h4><br>
+     <h4> Discrete geometry, extremal graph theory, coding theory and design</h4><br>
     </p>
 	
 <h2>Professional Experiences</h2>
@@ -38,16 +38,16 @@
     
    <h2>Honours and Awards</h2>
        <p>
-   <h4>2020 Kirkman Medal</h4>
+   <h4>2019 Kirkman Medal</h4>
     </p>
     <p>
    <h4>2019 The Honorable Mention of Doctor thesis for New World Mathematics Awards</h4>
     </p>
 	 <p>
-    <h4>2018 The Excellent Doctor Dissertations of Zhejiang Province</h4>
+    <h4>2017 The Excellent Doctor Dissertations of Zhejiang Province</h4>
     </p>
     <p>
-      <h4>2018 The Nomination Award for Excellent Doctor Dissertations of Zhejiang University</h4>
+      <h4>2017 The Nomination Award for Excellent Doctor Dissertations of Zhejiang University</h4>
     </p>
      <p>
       <h4>2015 Scholarship for Doctoral Student by State Key Laboratory of Information Security</h4>
@@ -506,51 +506,44 @@
 
 
 
-<h2>Talks</h2>
- <h4>13. Hypergraphs without Berge Theta Subhypergraphs</h4>
- <p>The 13th National Congress of the Chinese Mathematical Society, Sun Yat-sen University, China, Nov., 2019. <h4>(Invited talk)</h4> </p>
+<h2>Invited Talks</h2>
+<h4>10. Fuglede's conjecture holds in Zp×Zpn</h4>
+ <p>CUNY GC Harmonic Analysis and PDE Seminar, Dec., 2021. (Online) </p>
 
-<h4>12. Hypergraphs without Berge Theta Subhypergraphs</h4>
+<h4>9. Some new results on repeated patterns in proper edge colorings</h4>
+ <p>Beijing Institute of Technology, China, Jul., 2021. </p>
+
+<h4>8. On the algebraic constructions of extremal graphs</h4>
+ <p>Shandong University, China, Nov., 2020. (Online) </p>
+
+<h4>7. Some new results on Turan type and Ramsey type problems</h4>
+ <p>2020 Workshop on Frontiers of Combinatorics and Graph Theory, Southern University of Science and Technology, China, Oct., 2020. </p>
+
+<h4>6. Some new results on Turan type and Ramsey type problems</h4>
+ <p>The 9th National Congress of Combinatorics and Graph Theory, Soochow University, China, Aug., 2020. (Online)  </p>
+
+ <h4>5. Hypergraphs without Berge Theta Subhypergraphs</h4>
+ <p>The 13th National Congress of the Chinese Mathematical Society, Sun Yat-sen University, China, Nov., 2019.  </p>
+
+<h4>4. Hypergraphs without Berge Theta Subhypergraphs</h4>
  <p>University of Science and Technology of China, China, Oct., 2019. </p>
-
-<h4>11. On hypergraph Turan problems</h4>
- <p>Workshop on Combinatorial Design Theory, Soochow University, China, Oct., 2019. (Contributed talk) </p>
  
-<h4>10.Lattice tiling by two different shapes.</h4>
+<h4>3.Lattice tiling by two different shapes.</h4>
  <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei University, China, May, 2019. <h4>(Plenary talk)</h4></p>
  
-<h4>9. On the nonexistence of lattice tilings of Z^n by Lee spheres</h4>
+<h4>2. On the nonexistence of lattice tilings of Z^n by Lee spheres</h4>
  <p>Capital Normal University, China, Apr., 2019. </p>
  
- <h4>8. Perfect splitter sets</h4>
- <p>The first workshop on advanced topics in combinatorics and relates in information theory, Soochow University, China, Sep., 2018. (Contributed talk) </p>
- 
- <h4>7. Improved lower bounds on the degree-diameter problem</h4>
- <p>2018 Guangdong Combinatorics and Graphs Conference, Guangdong University of Technology, China, Jul., 2018. (Contributed talk) </p>
- 
- <h4>6. On the nonexistence of linear perfect Lee code</h4>
- <p>The 5th Sino-Korea International Conference on Coding Theory and Its Related Topics, Shanghai University, China, Jul., 2018. <h4>(Invited talk)</h4> </p>
- 
- <h4>5. Perfect and quasi-perfect codes under the l_p metric</h4>
- <p>2017 International Workshop on Coding Theory, Anhui University, China, Oct., 2017. (Contributed talk) </p>
- 
- <h4>4. Combinatorial constructions of packings in Grassmannian spaces</h4>
- <p>National Conference on Coding theory and Cryptography, Zhejiang University, China, Sep., 2017. (Contributed talk) </p>
- 
- <h4>3. New results on codes correcting single error of limited magnitude for flash memory</h4>
- <p>The Seventh International Symposium on Finite Fields and Their Applications, Nankai University, China, Jun., 2016. (Contributed talk) </p>
- 
-  <h4>2. Quantum codes derived from polynomial codes</h4>
- <p>International Workshop on Algebraic Combinatorics, Zhejiang University, China, Sep., 2015. (Contributed talk) </p>
- 
-  <h4>1. On the existence of certain optimal self-dual codes with lengths between 74 and 116</h4>
- <p>Workshop on Combinatorial Designs and Their Applications, Soochow University, China, Aug., 2014. (Contributed talk) </p>
+ <h4>1. On the nonexistence of linear perfect Lee code</h4>
+ <p>The 5th Sino-Korea International Conference on Coding Theory and Its Related Topics, Shanghai University, China, Jul., 2018.  </p>
  
  <h2>Grants</h2>
     <p>
-   <h4>2019.1--2021.12, National Natural Science Foundation of China, Grant 11801109</h4>
+   <h4>2019.1--2021.12, National Natural Science Foundation of China, Grant 11801109, 240000RMB</h4>
     </p>
- 
+ <p>
+   <h4>2018.1--2019.12, Department of Education of Guangdong Province, 50000RMB</h4>
+    </p>
   <h2>Journal Referee</h2>
     <p>
    IEEE Transactions on Information Theory
@@ -564,8 +557,23 @@
      <p>
    Electronic Journal of Combinatorics
     </p>
+         <p>
+   Advances in Mathematics of Communications
+    </p>
     
    <h2>Teaching Experience</h2>
+       <p>
+   2021.9--2021.12, Linear Algebra
+    </p>
+       <p>
+   2021.3--2021.6, Linear Algebra
+    </p>
+       <p>
+   2020.9--2020.12, Linear Algebra
+    </p>
+       <p>
+   2020.3--2020.6, Linear Algebra
+    </p>
     <p>
    2019.3--2019.6, Linear Algebra
     </p>
