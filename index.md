@@ -603,6 +603,9 @@
 
 
 <h2>Invited Talks</h2>
+<h4>11. On the Fuglede's conjecture in finite Abelian groups</h4>
+ <p>Nanjing Normal University, China, Apr., 2022. </p>
+
 <h4>10. Fuglede's conjecture holds in Zp×Zpn</h4>
  <p>CUNY GC Harmonic Analysis and PDE Seminar, Dec., 2021. (Online) </p>
 
