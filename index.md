@@ -11,8 +11,8 @@
       <img src="taozhang.jpg" width="25%"/>
     </figure>
     <p class="description">   
-     School of Mathematics and Information Science <br>
-     Guangzhou University<br>
+     Research Center for Applied Mathematics and Machine Intelligence <br>
+     Zhejiang Lab<br>
      A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
    <h2> Research Interests</h2>
@@ -22,7 +22,11 @@
 	
 <h2>Professional Experiences</h2>
     <p>
-    Guangzhou University,   2017.7-- <br>
+    Zhejiang Lab,   2022.7-- <br>
+	   Research Expert
+    </p>
+    <p>
+    Guangzhou University,   2017.7--2022.6 <br>
 	    Associate Professor
     </p>
     <h2>Education</h2>
