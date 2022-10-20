@@ -101,7 +101,7 @@
 <h4>26. Some extremal results on hypergraph Turan problems</h4>
     <span>
       (with  
-	    Zixiang Xu,
+	    <a href="https://drrichxu.github.io/Combinatorics/" target="_blank">Zixiang Xu</a>,
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
@@ -139,8 +139,8 @@
     <span>
       (with  
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
-	    Yifan Jing,
-	    Zixiang Xu,
+	    <a href="https://yifanjing.wordpress.com/" target="_blank">Yifan Jing</a>,
+	    <a href="https://drrichxu.github.io/Combinatorics/" target="_blank">Zixiang Xu</a>,
     </span>
   <p>
   <div class="item__primary-actions">
@@ -159,7 +159,7 @@
 <h4>23. Some tight lower bounds for Turan problems via constructions of multi-hypergraphs</h4>
     <span>
       (with  
-	    Zixiang Xu,
+	    <a href="https://drrichxu.github.io/Combinatorics/" target="_blank">Zixiang Xu</a>,
         <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
     </span>
   <p>
