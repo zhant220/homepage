@@ -67,6 +67,11 @@
 <div class="items">      
         <article class="item">   
 <h4>28. On the nonexistence of semi-regular relative difference sets</h4>
+		    <span>
+      (with  
+        Ka Hin Leung,
+	Bernhard Schmidt,
+    </span>
   <p>
   <div class="item__primary-actions">
     Published in: Journal of Combinatorial Theory, Series A, 2023 <span><a href="On the nonexistence of semi-regular relative difference sets（online）.pdf" target="_blank">PDF</a></span>  
