@@ -626,7 +626,7 @@
 
 
 <h2>Invited Talks</h2>
-<h4>13. On the Fuglede's conjecture in finite Abelian groups</h4>
+<h4>13. On Fuglede's conjecture in finite Abelian groups</h4>
  <p>The Seventh International Symposium on Coding Theory, Cryptography and Combinatorics, Henan Normal University, China, Nov., 2022. </p>
 
 <h4>12. On the Fuglede's conjecture in finite Abelian groups</h4>
