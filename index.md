@@ -66,6 +66,20 @@
 
 <div class="items">      
         <article class="item">   
+<h4>28. On the nonexistence of semi-regular relative difference sets</h4>
+  <p>
+  <div class="item__primary-actions">
+    Published in: Journal of Combinatorial Theory, Series A, 2023 <span><a href="On the nonexistence of semi-regular relative difference sets（online）.pdf" target="_blank">PDF</a></span>  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
+
+<div class="items">      
+        <article class="item">   
 <h4>27. New constructions of Sidon spaces</h4>
     <span>
       (with  
@@ -607,6 +621,12 @@
 
 
 <h2>Invited Talks</h2>
+<h4>13. On the Fuglede's conjecture in finite Abelian groups</h4>
+ <p>The Seventh International Symposium on Coding Theory, Cryptography and Combinatorics, Henan Normal University, China, Nov., 2022. </p>
+
+<h4>12. On the Fuglede's conjecture in finite Abelian groups</h4>
+ <p>National University of Defense Technology, China, May, 2022. </p>
+
 <h4>11. On the Fuglede's conjecture in finite Abelian groups</h4>
  <p>Nanjing Normal University, China, Apr., 2022. </p>
 
@@ -648,6 +668,9 @@
    <h4>2018.1--2019.12, Department of Education of Guangdong Province, 50000RMB</h4>
     </p>
   <h2>Journal Referee</h2>
+      <p>
+  Inventiones Mathematicae
+    </p>
     <p>
    IEEE Transactions on Information Theory
     </p>
