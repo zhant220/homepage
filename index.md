@@ -8,7 +8,7 @@
 		
   <div class="about">
       <figure class="profile">
-      <img src="taozhang.jpg" width="25%"/>
+      <img src="tzphoto.jpg" width="25%"/>
     </figure>
     <p class="description">   
      Research Center for Applied Mathematics and Machine Intelligence <br>
