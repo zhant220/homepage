@@ -13,7 +13,6 @@
     <p class="description">   
      Research Center for Applied Mathematics and Machine Intelligence <br>
      Zhejiang Lab<br>
-     A member of <a href="http://staff.ustc.edu.cn/~drzhangx/group-chn/default.html" target="_blank">Combinatorics and Information Theory</a>
     </p>
    <h2> Research Interests</h2>
     <p>
