@@ -678,10 +678,10 @@
  
  <h2>Grants</h2>
     <p>
-   <h4>2019.1--2021.12, National Natural Science Foundation of China, Grant 11801109, 240000RMB</h4>
+   <h4>2019.1--2021.12, National Natural Science Foundation of China, Grant 11801109</h4>
     </p>
  <p>
-   <h4>2018.1--2019.12, Department of Education of Guangdong Province, 50000RMB</h4>
+   <h4>2018.1--2019.12, Department of Education of Guangdong Province</h4>
     </p>
   <h2>Journal Referee</h2>
             <p>
