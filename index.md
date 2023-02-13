@@ -63,6 +63,19 @@
 	
 <h2>Publications</h2>
 
+<div class="items">      
+        <article class="item">   
+<h4>29. Fuglede’s conjecture holds in Zp × Zpn</h4>
+  <p>
+  <div class="item__primary-actions">
+    Published in: SIAM Journal on Discrete Mathematics, 2023+ 
+</div>
+  </p>
+  <p class="item__secondary-actions">
+   
+  </p>
+</article>
+
 
 <div class="items">      
         <article class="item">   
@@ -671,25 +684,33 @@
    <h4>2018.1--2019.12, Department of Education of Guangdong Province, 50000RMB</h4>
     </p>
   <h2>Journal Referee</h2>
+            <p>
+   Advances in Mathematics of Communications
+    </p>
+                <p>
+Algebraic Combinatorics
+    </p>
       <p>
-  Inventiones Mathematicae
-    </p>
-    <p>
-   IEEE Transactions on Information Theory
-    </p>
-  <p>
    Designs, Codes and Cryptography
     </p>
-     <p>
-   Finite Fields and Their Applications
+          <p>
+   Discrete Mathematics
     </p>
-     <p>
+        <p>
    Electronic Journal of Combinatorics
     </p>
          <p>
-   Advances in Mathematics of Communications
+   Finite Fields and Their Applications
     </p>
-    
+        <p>
+   IEEE Transactions on Information Theory
+    </p>
+    <p>
+  Inventiones Mathematicae
+    </p>
+    <p>
+Journal of Combinatorial Theory, Series A
+    </p>
    <h2>Teaching Experience</h2>
        <p>
    2021.9--2021.12, Linear Algebra
