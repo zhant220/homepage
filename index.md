@@ -33,10 +33,6 @@
     Zhejiang University， 2012.9--2017.6 <br>
 	   Ph.D. in Mathematics (Advisor: <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Prof. Gennian Ge</a>)
     </p>
-    <p>
-      Soochow University， 2004.9--2008.6<br>
-     B.S. in Mathematics
-    </p>
     
     
    <h2>Honours and Awards</h2>
