@@ -60,6 +60,23 @@
 
 <div class="items">      
         <article class="item">   
+<h4>30. New lower bounds for the Turan density of PG_{m}(q)</h4>
+    <span>
+      (with  
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in: Discrete Mathematics, 2023  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+  </p>
+</article>
+
+
+<div class="items">      
+        <article class="item">   
 <h4>29. Fuglede’s conjecture holds in Zp × Zpn</h4>
   <p>
   <div class="item__primary-actions">
@@ -67,7 +84,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -85,8 +101,7 @@
     Published in: Journal of Combinatorial Theory, Series A, 2023 <span><a href="On the nonexistence of semi-regular relative difference sets（online）.pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
-  <p class="item__secondary-actions">
-   
+  <p class="item__secondary-actions">   
   </p>
 </article>
 
@@ -104,7 +119,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -123,7 +137,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -141,7 +154,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -161,7 +173,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -181,7 +192,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -202,7 +212,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -222,7 +231,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -243,7 +251,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -261,7 +268,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -280,7 +286,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -298,7 +303,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -319,7 +323,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -358,7 +361,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -378,7 +380,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -399,16 +400,8 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
-
-
-
-
-
-
-
 
 
 <div class="items">      
@@ -423,8 +416,7 @@
     Published in:  IEEE Transcations on Information theory, Jul. 2017. <span><a href="2017-07 Perfect and Quasi-Perfect Codes Under the lp Metric (IT).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
-  <p class="item__secondary-actions">
-   
+  <p class="item__secondary-actions"> 
   </p>
 </article>
 
@@ -442,7 +434,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -463,7 +454,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -484,11 +474,8 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
-
-
 
 
 <div class="items">      
@@ -504,12 +491,8 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
-
-
-
 
 
 <div class="items">      
@@ -525,7 +508,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -545,7 +527,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -564,7 +545,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -585,7 +565,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -603,7 +582,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
   </p>
 </article>
 
@@ -626,8 +604,6 @@
 </div>
   </p>
   <p class="item__secondary-actions">
-   
-
   </p>
 </article>
 
