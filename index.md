@@ -16,7 +16,7 @@
     </p>
    <h2> Research Interests</h2>
     <p>
-     <h4> Discrete geometry, extremal graph theory, coding theory and design</h4><br>
+     <h4> Discrete geometry, extremal combinatorics, coding theory and design</h4><br>
     </p>
 	
 <h2>Professional Experiences</h2>
