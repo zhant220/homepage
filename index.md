@@ -643,28 +643,6 @@ Algebraic Combinatorics
     <p>
 Journal of Combinatorial Theory, Series A
     </p>
-   <h2>Teaching Experience</h2>
-       <p>
-   2021.9--2021.12, Linear Algebra
-    </p>
-       <p>
-   2021.3--2021.6, Linear Algebra
-    </p>
-       <p>
-   2020.9--2020.12, Linear Algebra
-    </p>
-       <p>
-   2020.3--2020.6, Linear Algebra
-    </p>
-    <p>
-   2019.3--2019.6, Linear Algebra
-    </p>
-  <p>
-   2018.9--2018.12, Linear Algebra
-    </p>
-     <p>
-   2018.3--2018.6, Linear Algebra
-    </p>
     
 <h2>Contact Information</h2>
     <p>
