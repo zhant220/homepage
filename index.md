@@ -80,7 +80,7 @@
 <h4>29. Fuglede’s conjecture holds in Zp × Zpn</h4>
   <p>
   <div class="item__primary-actions">
-    Published in: SIAM Journal on Discrete Mathematics, 2023+ 
+    Published in: SIAM Journal on Discrete Mathematics, 2023
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -608,45 +608,6 @@
 </article>
 
 
-
-<h2>Invited Talks</h2>
-
-<h4>12. On the Fuglede's conjecture in finite Abelian groups</h4>
- <p>National University of Defense Technology, China, May, 2022. </p>
-
-<h4>11. On the Fuglede's conjecture in finite Abelian groups</h4>
- <p>Nanjing Normal University, China, Apr., 2022. </p>
-
-<h4>10. Fuglede's conjecture holds in Zp×Zpn</h4>
- <p>CUNY GC Harmonic Analysis and PDE Seminar, Dec., 2021. (Online) </p>
-
-<h4>9. Some new results on repeated patterns in proper edge colorings</h4>
- <p>Beijing Institute of Technology, China, Jul., 2021. </p>
-
-<h4>8. On the algebraic constructions of extremal graphs</h4>
- <p>Shandong University, China, Nov., 2020. (Online) </p>
-
-<h4>7. Some new results on Turan type and Ramsey type problems</h4>
- <p>2020 Workshop on Frontiers of Combinatorics and Graph Theory, Southern University of Science and Technology, China, Oct., 2020. </p>
-
-<h4>6. Some new results on Turan type and Ramsey type problems</h4>
- <p>The 9th National Congress of Combinatorics and Graph Theory, Soochow University, China, Aug., 2020. (Online)  </p>
-
- <h4>5. Hypergraphs without Berge Theta Subhypergraphs</h4>
- <p>The 13th National Congress of the Chinese Mathematical Society, Sun Yat-sen University, China, Nov., 2019.  </p>
-
-<h4>4. Hypergraphs without Berge Theta Subhypergraphs</h4>
- <p>University of Science and Technology of China, China, Oct., 2019. </p>
- 
-<h4>3.Lattice tiling by two different shapes.</h4>
- <p>The Sixth International Symposium on Coding Theory, Cryptography and Combinatorics, Hubei University, China, May, 2019. (Plenary talk)</p>
- 
-<h4>2. On the nonexistence of lattice tilings of Z^n by Lee spheres</h4>
- <p>Capital Normal University, China, Apr., 2019. </p>
- 
- <h4>1. On the nonexistence of linear perfect Lee code</h4>
- <p>The 5th Sino-Korea International Conference on Coding Theory and Its Related Topics, Shanghai University, China, Jul., 2018.  </p>
- 
  <h2>Grants</h2>
     <p>
    <h4>2019.1--2021.12, National Natural Science Foundation of China, Grant 11801109</h4>
