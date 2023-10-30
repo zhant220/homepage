@@ -60,6 +60,51 @@
 
 <div class="items">      
         <article class="item">   
+<h4>33. A group ring approach to Fuglede's conjecture in cyclic groups</h4>
+  <p>
+  <div class="item__primary-actions">
+    Published in: Combinatorica, to appear
+</div>
+  </p>
+  <p class="item__secondary-actions">
+  </p>
+</article>
+
+<div class="items">      
+        <article class="item">   
+<h4>32. On linear diameter perfect Lee codes with distance 6</h4>
+    <span>
+      (with  
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in: Journal of Combinatorial Theory, Series A, 2024  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+  </p>
+</article>
+
+<div class="items">      
+        <article class="item">   
+<h4>31. On lattice tilings of Z^n by limited magnitude error balls B(n,2,1,1)</h4>
+    <span>
+      (with  
+	  Yanlu Lian,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in: IEEE Transactions on Information Theory, 2023  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+  </p>
+</article>
+
+ <div class="items">      
+        <article class="item">    
 <h4>30. New lower bounds for the Turan density of PG_{m}(q)</h4>
     <span>
       (with  
