@@ -14,7 +14,7 @@
      Research Center for Applied Mathematics and Machine Intelligence <br>
      Zhejiang Lab<br>
     </p>
-   <h2> <p style="color: #171515">Research Interests</p></h2>
+   <h2> <p style="color: #3743e1">Research Interests</p></h2>
     <p>
      <h4> Discrete geometry, extremal combinatorics, coding theory and designs</h4><br>
     </p>
