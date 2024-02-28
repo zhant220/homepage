@@ -198,7 +198,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in: Journal of Algebraic Combinatorics, 2022+ <span><a href="New constructions of Sidon spaces（online）.pdf" target="_blank">PDF</a></span>  
+   Journal of Algebraic Combinatorics, 2022+ <span><a href="New constructions of Sidon spaces（online）.pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -233,7 +233,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  SIAM Journal on Discrete Mathematics, 2021 <span><a href="On the Codegree Density of $PG_m(q)$ (SIDMA).pdf" target="_blank">PDF</a></span>  
+   <h4>SIAM Journal on Discrete Mathematics, 2021 <span><a href="On the Codegree Density of $PG_m(q)$ (SIDMA).pdf" target="_blank">PDF</a></span>  </h4>
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -252,7 +252,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  SIAM Journal on Discrete Mathematics, 2020 <span><a href="Color isomorphic even cycles and a related Ramsey problem (SIDMA).pdf" target="_blank">PDF</a></span>  
+   <h4>SIAM Journal on Discrete Mathematics, 2020 <span><a href="Color isomorphic even cycles and a related Ramsey problem (SIDMA).pdf" target="_blank">PDF</a></span>  </h4>
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -271,7 +271,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  European Journal of Combinatorics, 2020 <span><a href="Some tight lower bounds for Turán problems via constructions of multi-hypergraphs (EUJC).pdf" target="_blank">PDF</a></span>  
+  European Journal of Combinatorics, 2020 <span><a href="Some tight lower bounds for Turán problems via constructions of multi-hypergraphs (EUJC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -291,7 +291,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, 2020 <span><a href="2020+   Some New Results on Splitter Sets (Online).pdf" target="_blank">PDF</a></span>  
+    <h4>IEEE Transcations on Information theory, 2020 <span><a href="2020+   Some New Results on Splitter Sets (Online).pdf" target="_blank">PDF</a></span>  </h4>
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -310,7 +310,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Journal of Combinatorial Designs, Jan. 2020. <span><a href="2020-01 New lower bounds for partial k-parallelism (JCD).pdf" target="_blank">PDF</a></span>  
+   Journal of Combinatorial Designs, Jan. 2020. <span><a href="2020-01 New lower bounds for partial k-parallelism (JCD).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -330,7 +330,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Journal of combinatorial theory, series A, Jul. 2019. <span><a href="2019-07 On the nonexistence of lattice tilings of Z^n by Lee spheres (JCTA).pdf" target="_blank">PDF</a></span>  
+   <h4>Journal of combinatorial theory, series A, Jul. 2019. <span><a href="2019-07 On the nonexistence of lattice tilings of Z^n by Lee spheres (JCTA).pdf" target="_blank">PDF</a></span></h4>   
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -347,7 +347,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Journal of Algebraic Combinatorics, Mar. 2019. <span><a href="2019-03 Improved lower bounds on the degree–diameter problem (JACO).pdf" target="_blank">PDF</a></span>  
+  Journal of Algebraic Combinatorics, Mar. 2019. <span><a href="2019-03 Improved lower bounds on the degree–diameter problem (JACO).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -365,7 +365,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography, 2019. <span><a href="2019-01 Constructions of optimal Ferrers diagram rank metric codes (DCC).pdf" target="_blank">PDF</a></span>  
+   Designs, Codes and Cryptography, 2019. <span><a href="2019-01 Constructions of optimal Ferrers diagram rank metric codes (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -382,7 +382,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Journal of Algebraic Combinatorics, Dec. 2018. <span><a href="2018-12 On (mn, n, mn, m) relative difference sets with   gcd(m,n)=1 (JACO).pdf" target="_blank">PDF</a></span>  
+    Journal of Algebraic Combinatorics, Dec. 2018. <span><a href="2018-12 On (mn, n, mn, m) relative difference sets with   gcd(m,n)=1 (JACO).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -402,7 +402,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, Oct. 2018. <span><a href="2018-10 On the Nonexistence of Perfect Splitter Sets (IT).pdf" target="_blank">PDF</a></span>  
+   <h4>IEEE Transcations on Information theory, Oct. 2018. <span><a href="2018-10 On the Nonexistence of Perfect Splitter Sets (IT).pdf" target="_blank">PDF</a></span>  </h4> 
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -422,7 +422,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography, 2018. <span><a href="2018-04 New constructions of MDS symbol-pair codes (DCC).pdf" target="_blank">PDF</a></span>  
+Designs, Codes and Cryptography, 2018. <span><a href="2018-04 New constructions of MDS symbol-pair codes (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -440,7 +440,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography, 2018. <span><a href="2018-04 Combinatorial constructions of packings in Grassmannian spaces (DCC).pdf" target="_blank">PDF</a></span>  
+   Designs, Codes and Cryptography, 2018. <span><a href="2018-04 Combinatorial constructions of packings in Grassmannian spaces (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -459,7 +459,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Finite Fields and Their Applications, Jan. 2018. <span><a href="2018-01 Maximum distance separable codes for b-symbol read channels （FFA）.pdf" target="_blank">PDF</a></span>  
+  Finite Fields and Their Applications, Jan. 2018. <span><a href="2018-01 Maximum distance separable codes for b-symbol read channels （FFA）.pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -479,7 +479,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, Dec. 2017. <span><a href="2017-12 Splitter Sets and k -Radius Sequences (IT).pdf" target="_blank">PDF</a></span>  
+   <h4>IEEE Transcations on Information theory, Dec. 2017. <span><a href="2017-12 Splitter Sets and k -Radius Sequences (IT).pdf" target="_blank">PDF</a></span>  </h4> 
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -496,7 +496,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, Jul. 2017. <span><a href="2017-07 Perfect and Quasi-Perfect Codes Under the lp Metric (IT).pdf" target="_blank">PDF</a></span>  
+  <h4>IEEE Transcations on Information theory, Jul. 2017. <span><a href="2017-07 Perfect and Quasi-Perfect Codes Under the lp Metric (IT).pdf" target="_blank">PDF</a></span></h4>    
 </div>
   </p>
   <p class="item__secondary-actions"> 
@@ -513,7 +513,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography, 2017. <span><a href="2017-06 Quantum MDS codes with large minimum distance (DCC).pdf" target="_blank">PDF</a></span>  
+ Designs, Codes and Cryptography, 2017. <span><a href="2017-06 Quantum MDS codes with large minimum distance (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -533,7 +533,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography, 2017. <span><a href="2017-05 Some new results on permutation polynomials over finite fields(DCC).pdf" target="_blank">PDF</a></span>  
+  Designs, Codes and Cryptography, 2017. <span><a href="2017-05 Some new results on permutation polynomials over finite fields(DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -553,7 +553,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Discrete Mathematics, Feb. 2017. <span><a href="2017-02 Invertible binary matrices with maximum number of 2-by-2 invertible submatrices (DM).pdf" target="_blank">PDF</a></span>  
+Discrete Mathematics, Feb. 2017. <span><a href="2017-02 Invertible binary matrices with maximum number of 2-by-2 invertible submatrices (DM).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -570,7 +570,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, Nov. 2016. <span><a href="2016-11 Quantum Codes Derived From Certain Classes of Polynomials (IT).pdf" target="_blank">PDF</a></span>  
+   <h4>IEEE Transcations on Information theory, Nov. 2016. <span><a href="2016-11 Quantum Codes Derived From Certain Classes of Polynomials (IT).pdf" target="_blank">PDF</a></span> </h4> 
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -587,7 +587,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, Aug. 2016. <span><a href="2016-08 New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory (IT).pdf" target="_blank">PDF</a></span>  
+ <h4>IEEE Transcations on Information theory, Aug. 2016. <span><a href="2016-08 New Results on Codes Correcting Single Error of Limited Magnitude for Flash Memory (IT).pdf" target="_blank">PDF</a></span></h4>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -606,7 +606,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Electronic Journal of Combinatorics, Nov. 2015. <span><a href="2015-11 On the Existence of Certain Optimal Self-Dual Codes with Lengths Between 74 and 116 (EJC).pdf" target="_blank">PDF</a></span>  
+  Electronic Journal of Combinatorics, Nov. 2015. <span><a href="2015-11 On the Existence of Certain Optimal Self-Dual Codes with Lengths Between 74 and 116 (EJC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -624,7 +624,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, Sep. 2015. <span><a href="2015-09 Some New Classes of Quantum MDS Codes From Constacyclic Codes (IT).pdf" target="_blank">PDF</a></span>  
+ <h4>IEEE Transcations on Information theory, Sep. 2015. <span><a href="2015-09 Some New Classes of Quantum MDS Codes From Constacyclic Codes (IT).pdf" target="_blank">PDF</a></span> </h4>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -644,7 +644,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  Designs, Codes and Cryptography, 2015. <span><a href="2015-08 New pseudo-planar binomials in characteristic two and related schemes (DCC).pdf" target="_blank">PDF</a></span>  
+ Designs, Codes and Cryptography, 2015. <span><a href="2015-08 New pseudo-planar binomials in characteristic two and related schemes (DCC).pdf" target="_blank">PDF</a></span>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -661,7 +661,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in:  IEEE Transcations on Information theory, Aug. 2015. <span><a href="2015-08 Fourth Power Residue Double Circulant Self-Dual Codes (IT).pdf" target="_blank">PDF</a></span>  
+  <h4>IEEE Transcations on Information theory, Aug. 2015. <span><a href="2015-08 Fourth Power Residue Double Circulant Self-Dual Codes (IT).pdf" target="_blank">PDF</a></span></h4>  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -683,7 +683,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-  Published in:  IEEE Transcations on Information theory, May 2014.   <span><a href="2014-05 some new results on the cross correlation of m sequences (IT).pdf" target="_blank">PDF</a></span>  
+  <h4>IEEE Transcations on Information theory, May 2014.   <span><a href="2014-05 some new results on the cross correlation of m sequences (IT).pdf" target="_blank">PDF</a></span></h4>  
 </div>
   </p>
   <p class="item__secondary-actions">
