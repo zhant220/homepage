@@ -89,7 +89,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    <font color=Blue>Science China Mathematics, 2024+ </font>
+    <h4>Science China Mathematics, 2024+</h4>
 </div>
   </p>
   <p class="item__secondary-actions">
