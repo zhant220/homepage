@@ -11,8 +11,8 @@
       <img src="tzphoto.jpg" width="25%"/>
     </figure>
     <p class="description">   
-     Research Center for Applied Mathematics and Machine Intelligence <br>
-     Zhejiang Lab<br>
+      Institute of Mathematics and Interdisciplinary Sciences <br>
+      Xidian University<br>
     </p>
    <h2> Research Interests</h2>
     <p>
@@ -21,7 +21,11 @@
 	
 <h2>Professional Experiences</h2>
     <p>
-    Zhejiang Lab,   2022.7-- <br>
+    Xidian University,   2024.2-- <br>
+	Proffessor
+    </p>
+    <p>
+    Zhejiang Lab,   2022.7--2024.1 <br>
 	   Research Expert
     </p>
     <p>
@@ -43,10 +47,10 @@
    <h4>2019 The Honorable Mention of Doctor thesis for New World Mathematics Awards</h4>
     </p>
 	 <p>
-    <h4>2017 The Excellent Doctor Dissertations of Zhejiang Province</h4>
+    <h4>2018 The Excellent Doctor Dissertations of Zhejiang Province</h4>
     </p>
     <p>
-      <h4>2017 The Nomination Award for Excellent Doctor Dissertations of Zhejiang University</h4>
+      <h4>2018 The Nomination Award for Excellent Doctor Dissertations of Zhejiang University</h4>
     </p>
      <p>
       <h4>2015 Scholarship for Doctoral Student by State Key Laboratory of Information Security</h4>
@@ -60,10 +64,44 @@
 
 <div class="items">      
         <article class="item">   
+<h4>35. Classification of semi-regular relative difference sets with gcd(λ, n) = 1 attaining Turyn’s bound</h4>
+		    <span>
+      (with  
+        Ka Hin Leung,
+	Bernhard Schmidt,
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in: Designs, Codes and Cryptography, 2024+
+</div>
+  </p>
+  <p class="item__secondary-actions">   
+  </p>
+</article>
+
+<div class="items">      
+        <article class="item">   
+<h4>34. A polynomial resultant approach to algebraic construction of extremal graphs</h4>
+    <span>
+      (with  
+	    <a href="https://drrichxu.github.io/Combinatorics/" target="_blank">Zixiang Xu</a>,
+        <a href="http://math.cnu.edu.cn/szdw/qtjs/161049.htm" target="_blank">Gennian Ge</a>,    
+    </span>
+  <p>
+  <div class="item__primary-actions">
+    Published in: Science China Mathematics, 2024+  
+</div>
+  </p>
+  <p class="item__secondary-actions">
+  </p>
+</article>
+
+<div class="items">      
+        <article class="item">   
 <h4>33. A group ring approach to Fuglede's conjecture in cyclic groups</h4>
   <p>
   <div class="item__primary-actions">
-    Published in: Combinatorica, to appear
+    Published in: Combinatorica, 2024+
 </div>
   </p>
   <p class="item__secondary-actions">
