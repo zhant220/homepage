@@ -19,7 +19,7 @@
      <h4> Discrete geometry, extremal combinatorics, coding theory and designs</h4><br>
     </p>
 	
-<font color=blue><h2>Professional Experiences</h2></font>
+<font color=Blue><h2>Professional Experiences</h2></font>
     <p>
     Xidian University,   2024.2-- <br>
 	Proffessor
