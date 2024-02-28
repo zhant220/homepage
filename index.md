@@ -19,7 +19,7 @@
      <h4> Discrete geometry, extremal combinatorics, coding theory and designs</h4><br>
     </p>
 	
-<font color=Blue><h2>Professional Experiences</h2></font>
+<h2>Professional Experiences</h2>
     <p>
     Xidian University,   2024.2-- <br>
 	Proffessor
@@ -89,7 +89,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    <h4>Science China Mathematics, 2024+  </h4>
+    <font color=Blue>Science China Mathematics, 2024+ </font>
 </div>
   </p>
   <p class="item__secondary-actions">
