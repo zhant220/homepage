@@ -117,7 +117,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in: Journal of Combinatorial Theory, Series A, 2024  
+   <h4>Journal of Combinatorial Theory, Series A, 2024  </h4>
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -134,7 +134,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in: IEEE Transactions on Information Theory, 2023  
+    <h4>IEEE Transactions on Information Theory, 2023  </h4>
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -163,7 +163,7 @@
 <h4>29. Fuglede’s conjecture holds in Zp × Zpn</h4>
   <p>
   <div class="item__primary-actions">
-    Published in: SIAM Journal on Discrete Mathematics, 2023
+    <h4> SIAM Journal on Discrete Mathematics, 2023</h4>
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -181,7 +181,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in: Journal of Combinatorial Theory, Series A, 2023 <span><a href="On the nonexistence of semi-regular relative difference sets（online）.pdf" target="_blank">PDF</a></span>  
+ <h4>Journal of Combinatorial Theory, Series A, 2023 <span><a href="On the nonexistence of semi-regular relative difference sets（online）.pdf" target="_blank">PDF</a></span>  </h4>
 </div>
   </p>
   <p class="item__secondary-actions">   
@@ -216,7 +216,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in: Science China Mathematics, 2022+ <span><a href="Some extremal results on hypergraph Turán problems (online).pdf" target="_blank">PDF</a></span>  
+   <h4>Science China Mathematics, 2022+ <span><a href="Some extremal results on hypergraph Turán problems (online).pdf" target="_blank">PDF</a></span>  </h4>
 </div>
   </p>
   <p class="item__secondary-actions">
