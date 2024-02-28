@@ -89,7 +89,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in: Science China Mathematics, 2024+  
+    Published in: <h4>Science China Mathematics</h4>, 2024+  
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -101,7 +101,7 @@
 <h4>33. A group ring approach to Fuglede's conjecture in cyclic groups</h4>
   <p>
   <div class="item__primary-actions">
-    Published in: Combinatorica, 2024+
+    Published in: <h4>Combinatorica</h4>, 2024+
 </div>
   </p>
   <p class="item__secondary-actions">
@@ -721,7 +721,7 @@ Algebraic Combinatorics
    IEEE Transactions on Information Theory
     </p>
     <p>
-  Inventiones Mathematicae
+  <h4>Inventiones Mathematicae</h4>
     </p>
     <p>
 Journal of Combinatorial Theory, Series A
