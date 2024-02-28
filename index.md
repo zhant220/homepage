@@ -150,7 +150,7 @@
     </span>
   <p>
   <div class="item__primary-actions">
-    Published in: Discrete Mathematics, 2023  
+   Discrete Mathematics, 2023  
 </div>
   </p>
   <p class="item__secondary-actions">
