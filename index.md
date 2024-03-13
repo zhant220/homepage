@@ -22,7 +22,7 @@
 <h2>Professional Experiences</h2>
     <p>
     Xidian University,   2024.2-- <br>
-	Proffessor
+	Professor
     </p>
     <p>
     Zhejiang Lab,   2022.7--2024.1 <br>
