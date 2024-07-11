@@ -692,11 +692,18 @@ Discrete Mathematics, Feb. 2017. <span><a href="2017-02 Invertible binary matric
 
 
  <h2>Grants</h2>
+     <p>
+   <h4>2024.1--2025.12, Fundamental Research Funds for the Central Universities</h4>
+    </p>
     <p>
    <h4>2019.1--2021.12, National Natural Science Foundation of China, Grant 11801109</h4>
     </p>
  <p>
    <h4>2018.1--2019.12, Department of Education of Guangdong Province</h4>
+    </p>
+     <h2>Service</h2>
+     <p>
+   <h4>IEEE Transactions on Information Theory, Associate Editor</h4>
     </p>
   <h2>Journal Referee</h2>
             <p>
